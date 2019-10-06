@@ -42,7 +42,7 @@ sos etc.
 
 ###### sexta pregunta
 
-* i. swift es un lenguaje de programación para el desarrollo de aplicaciones (MacOS, iOS, watchOS tvOS). se lanzo en 2010.
+* i. swift es un lenguaje de programación para el desarrollo de aplicaciones (MacOS, iOS, watchOS tvOS). se lanzo en 2014.
 
 * ii. versión 5.1
 
